@@ -1,1 +1,2 @@
-# FIN_TIME_SERIES_TENSORFLOW_VIZ
+# Financial Time Series Forecasting of Stock Prices with TensorFlow and Visualization
+
